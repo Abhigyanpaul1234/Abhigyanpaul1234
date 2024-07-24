@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhigyan Paul</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
 
 - 🌱 I’m currently learning **Fullstack Development, Problem Solving**
 
@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhigyanpaul1234&show_icons=true&locale=en&layout=compact" alt="abhigyanpaul1234" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhigyanpaul1234&show_icons=true&locale=en" alt="abhigyanpaul1234" /></p>
+
